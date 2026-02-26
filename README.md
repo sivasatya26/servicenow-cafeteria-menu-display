@@ -10,3 +10,5 @@ This project is developed using ServiceNow (Xanadu Version).
 >Reports
 
 >UI Action
+#Platform Used
+ServiceNow Developer Instance
