@@ -12,3 +12,5 @@ This project is developed using ServiceNow (Xanadu Version).
 >UI Action
 # Platform Used
 ServiceNow Developer Instance
+# Internship
+SmartInternz – Project Phase (2025-2026)
